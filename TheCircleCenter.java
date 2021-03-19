@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Circle {
+public class TheCircleCenter {
  
         public static void main(String[] args)
         {
@@ -33,5 +33,6 @@ public class Circle {
             }
             System.out.println(""); 
         }
+        scan.close();
     }
 }
